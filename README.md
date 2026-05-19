@@ -44,7 +44,7 @@ project/
 
 
 ▶️ Installation & Setup
-git clone https://github.com/your-username/repository-name.git 
+git clone https://github.com/Nishaai/Crop_recommendation_system
 cd repository-name
 pip install -r requirements.txt
 python app.py
